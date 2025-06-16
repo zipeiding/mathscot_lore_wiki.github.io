@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Holy Triumvirate</title>
+</head>
+<body>
+    
+    <div class="narrow">
+        <a class="title" href="index.html">Mathscots Lore Wiki</a>
+        <h1>Holy Triumvirate</h1>
+        <p class="indent">
+            The Holy Triumvirate is a group of three figures who act as heavenly advisors to
+            <a href="queen_villi.html">Lady Vilhelm</a>.
+             They are all members of the Council of Gods. In terms of authority within the council, they rank higher than the
+            <a href="spirit.html">Spirits</a>
+            but lower than
+            <a href="lady_elaine.html">Lady Elaine</a>
+            or
+            <a href="lord_grant.html">Lord Grant</a>.
+            The triumvirs are Lady Adya, Lord Roan, and Lord Ved. 
+            While Lady Adya and Lord Ved spend much of their time assisting the Queen of the Gods, Lord Roan is often reincarnated in numerous different physical forms, especially paintings and inanimate objects.
+        </p>
+    </div>
+</body>
+</html>
